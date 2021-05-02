@@ -1,0 +1,2 @@
+# PopClip extension
+
