@@ -1,1 +1,3 @@
-# popclip_extension
+# PopClip extension
+
+PoPClipのextensionです。
