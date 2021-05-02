@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>mono.png</string>
+			<key>Service Name</key>
+			<string>Look Up in Dictionaries</string>
+			<key>Title</key>
+			<string>Dictionaries by Monokakido</string>
+		</dict>
+	</array>
+	<key>Extension Identifier</key>
+	<string>com.k-sakabe.extension.monokaki</string>
+	<key>Extension Name</key>
+	<string>Monokaki</string>
+	<key>Required Software Version</key>
+	<real>1459</real>
+</dict>
+</plist>
