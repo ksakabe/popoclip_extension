@@ -2,4 +2,5 @@
 
 ## 物書堂辞書用拡張
 
-monokaki.popclipextzをダウンロードし、ダブルクリックしてPopClipにインストールする。
+- ~~monokaki.popclipextzをダウンロードし、ダブルクリックしてPopClipにインストールする。~~
+- monokakidodic.popclipextzをダウンロードし、ダブルクリックしてインストールする。
