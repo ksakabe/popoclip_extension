@@ -24,5 +24,14 @@
 	</dict>
 	<key>Required Software Version</key>
 	<real>1459</real>
+	<key>Credits</key>
+	<array>
+	  <dict>
+	    <key>Name</key>
+	    <string>Kazuhisa Sakabe</string>
+	    <key>Link</key>
+	    <string>https://blog.k-sakabe.com/</string>
+	  </dict>
+	</array>
 </dict>
 </plist>
