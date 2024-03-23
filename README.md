@@ -1,6 +1,10 @@
 # PopClip extension
 
-PoPClipのextensionです。下記の拡張機能があります。
+## 物書堂辞書用拡張
 
-- macOS版「辞書 by 物書堂」用の拡張機能
-- 「manページをターミナルで開く」の拡張機能
+- ~~monokaki.popclipextzをダウンロードし、ダブルクリックしてPopClipにインストールする。~~
+- monokakidodic.popclipextzをダウンロードし、ダブルクリックしてインストールする。
+
+## manページをターミナルで開く
+
+- manpage.popclipextzをダウンロードし、ダブルクリックしてインストールする。
