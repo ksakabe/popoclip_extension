@@ -4,3 +4,7 @@
 
 - ~~monokaki.popclipextzをダウンロードし、ダブルクリックしてPopClipにインストールする。~~
 - monokakidodic.popclipextzをダウンロードし、ダブルクリックしてインストールする。
+
+## manページをターミナルで開く
+
+- manpage.popclipextzをダウンロードし、ダブルクリックしてインストールする。

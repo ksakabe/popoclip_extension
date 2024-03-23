@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Actions</key>
+  <array>
+    <dict>
+      <key>Image File</key>
+      <string>man.png</string>
+      <key>Service Name</key>
+      <string>Open man Page in Terminal</string>
+      <key>Title</key>
+      <string>Open man page</string>
+    </dict>
+  </array>
+  <key>Extension Identifier</key>
+  <string>com.k-sakabe.extension.manpage</string>
+  <key>Extension Name</key>
+  <dict>
+    <key>en</key>
+    <string>Open man page in Terminal</string>
+    <key>ja</key>
+    <string>manページをターミナルで開く</string>
+  </dict>
+  <key>Required Software Version</key>
+  <real>1459</real>
+  <key>Credits</key>
+  <array>
+    <dict>
+      <key>Name</key>
+      <string>Kazuhisa Sakabe</string>
+      <key>Link</key>
+      <string>https://blog.k-sakabe.com/</string>
+    </dict>
+  </array>
+</dict>
+</plist>
